@@ -1,9 +1,42 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
 ---
+
+<img src="/img/banner_main.png" alt="Idle Animation">
+<br>
+<br>
+<br>
+<html>
+    <head>
+        <title>Discord and Clan</title>
+
+        <style>
+            .my_head
+            {
+                font-family:    Montserrat, sans-serif;
+                font-size:      25px;
+                font-weight:    bold;
+            }
+        </style>
+        <style>
+                  .my_body
+                  {
+                      font-family:    Montserrat, sans-serif;
+                      font-size:      20px;
+                      font-weight:    light;
+                  }
+        </style>
+    </head>
+
+    <body><br>
+        <div class="my_head">Discord and Clan</div>
+        <div class="my_body">You can join the Discord <a href="discord.gg/z33tdxP"><font color="#EF466F">here.</font></a><br>
+          And the Destiny clan <a href="https://idleanimation.com/destiny-clan"><font color="#EF466F">here.</font></a><br>
+          We’re active in Destiny 2 on PC.<br><br>
+          In Discord, be sure to assign a role in the #role-assignment channel to grant you access to the text channels.</div>
+    </body>
+</html>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -17,10 +50,6 @@ use-site-title: true
 	  </h3>
 	  {% endif %}
     </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: site.date_format }}
-    </p>
 
     <div class="post-entry-container">
       {% if post.image %}
