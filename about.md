@@ -8,7 +8,7 @@ layout: page
     <head>
         <title>Discord and Clan</title>
 
-        <style>
+<style>
             .my_head
             {
                 font-family:    Montserrat, sans-serif;
@@ -16,7 +16,7 @@ layout: page
                 font-weight:    bold;
             }
         </style>
-        <style>
+<style>
                   .my_body
                   {
                       font-family:    Montserrat, sans-serif;
@@ -24,9 +24,10 @@ layout: page
                       font-weight:    light;
                   }
         </style>
-    </head>
+</head>
 
-    <body><br>
+<body><br>
+<center><img src="/img/about.jpg" alt="SHAXX!!!"></center><br><br><br><br>
         <div class="my_head">Welcome to Idle Animation.</div>
         <div class="my_body"><br>We are an Australian gaming group, welcoming to all! We're open to any kind of person, age/gender/anything! We will generally be online during Australian and New Zealand prime time. GMT+10. Most members are over 18, we don't hold back in chat. So if you're looking for a kid-friendly clean chat, this clan won't be it.<br><br>
         While we are an Australian based clan, it's completely fine if you are from another country. Keep in mind that may mean you will not be able to play many games with most people in the clan due to latency. We play exclusively on PC. We are a casual group of friends, but we'll chuck on our tryhard pants when we can. We play many different games.<br><br>
