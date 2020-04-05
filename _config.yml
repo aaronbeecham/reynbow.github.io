@@ -21,6 +21,7 @@ description: Australian Gamers
 # List of links in the navigation bar
 navbar-links:
   Last Wish Plates: "last-wish-plates"
+  Zero Hour: "optimus"
   About: "about"
   Resources:
     - Work In Progress: "/404/"
