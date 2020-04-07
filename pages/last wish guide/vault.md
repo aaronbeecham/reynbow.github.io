@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /last-wish/vault
+permalink: /vault
 ---
 
 <a href="https://idleanimation.com/"><img src="/img/banner_main.png" alt="Idle Animation"></a>
