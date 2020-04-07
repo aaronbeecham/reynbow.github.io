@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /kalli
+permalink: /last-wish/kalli/
 ---
 <a href="https://idleanimation.com/"><img src="/img/banner_main.png" alt="Idle Animation"></a>
 

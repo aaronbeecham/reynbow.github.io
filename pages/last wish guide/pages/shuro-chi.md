@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /shuro-chi
+permalink: /last-wish/shuro-chi/
 ---
 <a href="https://idleanimation.com/"><img src="/img/banner_main.png" alt="Idle Animation"></a>
 
