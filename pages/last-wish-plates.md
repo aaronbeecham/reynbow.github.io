@@ -176,7 +176,7 @@ Thanks to <a href="https://www.reddit.com/r/raidsecrets/comments/9kyhga/13th_wis
 Thanks to <a href="https://www.reddit.com/r/raidsecrets/comments/9iuuqf/new_wish_plate_found/">Urklestine</a> for finding the 14th plate.<br></div><br>
 
 <div class="my_head">ANYTHING WRONG OR MISSING? JUST WANT TO GET IN CONTACT?</div>
-<div class="my_body">Send me a Discord DM by <a href="https://discordapp.com/users/123395731548536832">clicking here</a> or adding my ID: Reynbow#3012. You can also join the Discord via the link on the home page and let me know!<br>
+<div class="my_body">Send me a Discord DM by <a href="https://discordapp.com/users/123395731548536832">clicking here</a> or adding my ID: Reynbow#4444. You can also join the Discord via the link on the home page and let me know!<br>
 <br>
 Otherwise, send me an email at reynbow@pm.me<br>
 <br>
