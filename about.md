@@ -42,7 +42,7 @@ layout: page
         In saying that, we won't tolerate overt homophobia and racism etc.<br>
         If you're trying to be mean, that's one thing, if you're just having some bants, then cool.<br><br>
 
-        WWe play exclusively on PC.<br>
+        We play exclusively on PC.<br>
         The only requirement is to be right here, in the Discord.<br><br>
 
         Just head to the 'role-assignment' channel and add the roles to your account. You need to have at least one game assigned to you to be able to chat.</div><br>
