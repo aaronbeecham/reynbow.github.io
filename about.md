@@ -29,9 +29,22 @@ layout: page
 <body><br>
 <center><img src="/img/about.jpg" alt="SHAXX!!!"></center><br><br><br><br>
         <div class="my_head">Welcome to Idle Animation.</div>
-        <div class="my_body"><br>We are an Australian gaming group, welcoming to all! We're open to any kind of person, age/gender/anything! We will generally be online during Australian and New Zealand prime time. GMT+10. Most members are over 18, we don't hold back in chat. So if you're looking for a kid-friendly clean chat, this clan won't be it.<br><br>
-        While we are an Australian based clan, it's completely fine if you are from another country. Keep in mind that may mean you will not be able to play many games with most people in the clan due to latency. We play exclusively on PC. We are a casual group of friends, but we'll chuck on our tryhard pants when we can. We play many different games.<br><br>
-        Join us on the Discord and join the Bungie clan here. Make sure to assign yourself a role so you can join the chat!<br><br>
+        <div class="my_body"><br>We are an Australian gaming group, welcoming to all!<br><br>
+        
+        We have a small core team that is always looking for higher tier PvP and PvE players for things like Raids, comp, Trials (lol) etc... But this is not a requirement at all.<br><br>
+
+        Most members are over 18 and we don't hold back in chat.<br>
+        We're LGBTQ+ friendly and you will be kicked if you're not.<br>
+        If you're looking for a kid-friendly clean chat, this clan won't be it.<br>
+        If you're looking for a safe space, this is not it.<br>
+        If you're looking for some bants, then this might be your place.<br><br>
+
+        In saying that, we won't tolerate overt homophobia and racism etc.<br>
+        If you're trying to be mean, that's one thing, if you're just having some bants, then cool.<br><br>
+
+        WWe play exclusively on PC.<br>
+        The only requirement is to be right here, in the Discord.<br><br>
+
         Just head to the 'role-assignment' channel and add the roles to your account. You need to have at least one game assigned to you to be able to chat.</div><br>
     </body>
 </html>
