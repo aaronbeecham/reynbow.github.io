@@ -45,6 +45,6 @@ layout: page
         We play exclusively on PC.<br>
         The only requirement is to be right here, in the Discord.<br><br>
 
-        Just head to the 'role-assignment' channel and add the roles to your account. You need to have at least one game assigned to you to be able to chat.</div><br>
+        Just head to the #roles channel and add the roles to your account. You need to have at least one game assigned to you to be able to chat.</div><br>
     </body>
 </html>
